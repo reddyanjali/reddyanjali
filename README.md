@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi 👋 Welcome to my GitHub profile.
 
-<!--
-**reddyanjali/reddyanjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Anjali Reddy, student cum Freelance Full Stack Developer. I'm also an Author of two books, Micro UI/UX Designer, Anchor as well as Choreographer and a YouTuber.
 
-Here are some ideas to get you started:
+### You can check out my portfolio here: https://www.reddyanjali.me .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here are some facts about me:
+
+- 🔭 I’m currently working on a React project
+- 🌱 I’m currently learning Angular.js
+- 👯 I’m looking to collaborate on Python, React as well as Web Based projects. 
+- 💬 Ask me about Python as well as scripting Languages(HTML5, CSS3, JS, PHP, React.js)
+- 📫 How to reach me: You can reach out to me via email : reddyanjali.official@gmail.com
+- ⚡ Other Profile Links:
+
+:books: EBooks Written
+- [Home-Based High Paying Jobs](https://www.amazon.in/dp/B08C5JDKR4)
+-  [Earn 50K/Mth By Blogging](https://www.amazon.in/dp/B08DVCJLVK)
+
+:movie_camera: YouTube Channel
+
+* [Sassy Romanoff](https://www.youtube.com/channel/UC0RPRbbjcVd2g6gl4rv5b0g)
+
