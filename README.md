@@ -1,6 +1,6 @@
 ### Hi 👋 Welcome to my GitHub profile.
 
-### My name is Anjali Reddy, student cum Freelance Full Stack Developer. I'm also an Author of two books, a Micro UI/UX Designer, an Anchor as well as a Micro Choreographer and a YouTuber.
+### My name is Anjali Reddy, a student cum Freelance Full Stack Developer. I'm also an Author of two books, a Micro UI/UX Designer, an Anchor as well as a Micro Choreographer and a YouTuber.
 
 ### You can check out my portfolio here: https://www.reddyanjali.me .
 
