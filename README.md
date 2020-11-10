@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Angular.js
 - 👯 I’m looking to collaborate on Python, React as well as Web Based projects. 
 - 💬 Ask me about Python as well as scripting Languages(HTML5, CSS3, JS, PHP, React.js)
-- 📫 How to reach me: You can reach out to me via email : reddyanjali.official@gmail.com
+- 📫 How to reach me?: You can reach out to me via email : reddyanjali.official@gmail.com
 - ⚡ Other Profile Links:
 
 :books: EBooks Written
