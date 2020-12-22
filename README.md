@@ -4,6 +4,9 @@
 
 ### You can check out my portfolio here: https://www.reddyanjali.me .
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reddyanjali&count_private=true&show_icons=true&theme=dracula)
+
+
 ### Here are some facts about me:
 
 - 🔭 I’m currently working on a React project
@@ -22,7 +25,6 @@
 * [Sassy Romanoff](https://www.youtube.com/channel/UC0RPRbbjcVd2g6gl4rv5b0g)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reddyanjali&count_private=true&show_icons=true&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyanjali&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
