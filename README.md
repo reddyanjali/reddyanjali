@@ -4,6 +4,8 @@
 
 ### You can check out my portfolio here: https://www.reddyanjali.me .
 
+### Social Links: 
+
 ### Here are some facts about me:
 
 - 🔭 I’m currently working on a React project
@@ -21,3 +23,4 @@
 
 * [Sassy Romanoff](https://www.youtube.com/channel/UC0RPRbbjcVd2g6gl4rv5b0g)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reddyanjali&show_icons=true&theme=dracula)
