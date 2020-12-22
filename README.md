@@ -4,8 +4,6 @@
 
 ### You can check out my portfolio here: https://www.reddyanjali.me .
 
-### Social Links: 
-
 ### Here are some facts about me:
 
 - 🔭 I’m currently working on a React project
