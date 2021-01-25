@@ -16,6 +16,9 @@
 - 📫 How to reach me?: You can reach out to me via email : reddyanjali.official@gmail.com
 - ⚡ Other Profile Links:
 
+:woman_technologist: Course on Udemy
+- [WordPress from scratch - step by step(Hosting included)](https://www.udemy.com/share/103Zb2/)
+
 :books: EBooks Written
 - [Home-Based High Paying Jobs](https://www.amazon.in/dp/B08C5JDKR4)
 -  [Earn 50K/Mth By Blogging](https://www.amazon.in/dp/B08DVCJLVK)
